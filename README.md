@@ -1,3 +1,6 @@
+<img width="1400" height="425" alt="Image" src="https://github.com/user-attachments/assets/7fbc6409-96df-48b4-a49b-db94d9c1de96" />
+
+
 ## Hi there, my name's Matheus Genesi, a Computer Science Student & Aspiring Backend Developer. 👋
 
 
